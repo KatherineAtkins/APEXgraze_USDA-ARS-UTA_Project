@@ -1,3 +1,3 @@
 # USDA-ARS/UTA-Internship-with-Katy
-Working on the APEX model for the USDA-ARS program with Dr. Amanda Nelson and Dr. Mahesh Maskey.
-University of Texas at Arlington advisor: Dr. Yike Shen
+I am assisting with refining the APEXgraze Model with the USDA-ARS program with mentors Dr. Amanda Nelson and Dr. Mahesh Maskey.
+My University of Texas at Arlington research advisor is Dr. Yike Shen.
