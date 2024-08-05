@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 21 12:33:34 2024
-
-@author: tcatk
-"""
+# converting .csv to .dly files
 
 import pandas as pd
 import fortranformat as ff
